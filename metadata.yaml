@@ -1,0 +1,26 @@
+_repo: Hand-CraftThe-Most-Reliable-Basis-of-Technical-Education-in-Schools-and-Classes_37447
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sutcliffe, John D.
+    gutenberg_agent_id: '38847'
+    url: http://www.gutenberg.org/2009/agents/38847
+description: ''
+gutenberg_issued: '2011-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37447'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TT'
+- !lcsh 'Sloyd'
+- !lcsh 'Woodwork (Manual training)'
+title: 'Hand-Craft: The Most Reliable Basis of Technical Education in Schools and
+  Classes'
+url: http://www.gutenberg.org/ebooks/37447
